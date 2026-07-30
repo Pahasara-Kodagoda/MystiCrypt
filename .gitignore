@@ -1,0 +1,13 @@
+# Visual Studio Auto-generated files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.suo
+*.ipch
+*.sdf
+*.opensdf
+*.tlog/
+*.log
